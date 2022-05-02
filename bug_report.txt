@@ -31,7 +31,7 @@ Save the Defect/Bug in the BUG TRACKING TOOL.  You will get a Bug ID that you ca
 
 Default ‘New Bug’ mail will go to the respective developer and the default module owner (Team leader or manager) for further action.
 
-If you need more information about writing a Good Bug Report, read our previous post “How to write a Good Bug Report“.
-Recommended Reading
+-----------------------------------------------------
+
 
     
